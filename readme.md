@@ -13,7 +13,7 @@ This curriculum list was generated using ChatGPT
 
 1. **Number Systems and Operations**
 
-   - Place value and number sense
+   - [Place value and number sense](grade6/practiseQuestions.md)
 
    - Multiplication and division of multi-digit numbers
 
