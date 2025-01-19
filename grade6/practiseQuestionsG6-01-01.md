@@ -54,6 +54,12 @@ Answer the following questions. Show your work where applicable.
 
 
 
-9. Write the smallest and largest 5
+9. Write the smallest and largest 5-digit numbers you can form using the digits **4, 8, 1, 0, 5**.  
+   (Each digit must be used only once in each number.)
 
+10. If the digit **6** in the number **46,783** is replaced with a **9**, how much greater is the new number than the original?
 
+---
+
+### Bonus Question
+Convert **3,405,210** to expanded form and explain the place value of each digit.
