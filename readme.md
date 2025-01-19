@@ -13,13 +13,13 @@ This curriculum list was generated using ChatGPT
 
 1. **Number Systems and Operations**
 
-   - [Place value and number sense](grade6/practiseQuestions.md)
+   - [Place value and number sense](grade6/practiseQuestionsG6-01-01.md)
 
-   - Multiplication and division of multi-digit numbers
+   - [Multiplication and division of multi-digit numbers](grade6/practiseQuestionsG6-01-02.md)
 
-   - Introduction to fractions, decimals, and percentages
+   - [Introduction to fractions, decimals, and percentages](grade6/practiseQuestionsG6-01-03.md)
 
-   - Prime numbers, factors, and multiples
+   - [Prime numbers, factors, and multiples](grade6/practiseQuestionsG6-01-04.md)
 
 2. **Fractions and Decimals**
 
